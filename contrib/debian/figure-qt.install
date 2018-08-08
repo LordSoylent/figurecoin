@@ -1,0 +1,6 @@
+usr/local/bin/figure-qt usr/bin
+share/pixmaps/figure32.xpm usr/share/pixmaps
+share/pixmaps/figure16.xpm usr/share/pixmaps
+share/pixmaps/figure128.png usr/share/pixmaps
+debian/figure-qt.desktop usr/share/applications
+debian/figure-qt.protocol usr/share/kde4/services/
